@@ -1,0 +1,12 @@
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\bin\Debug\IdCollection.Tests.dll
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\bin\Debug\IdCollection.Tests.pdb
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\bin\Debug\IdCollection.dll
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\bin\Debug\IdCollection.pdb
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\obj\Debug\IdCollection.Tests.csprojAssemblyReference.cache
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\obj\Debug\IdCollection.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\obj\Debug\IdCollection.Tests.csproj.CopyComplete
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\obj\Debug\IdCollection.Tests.dll
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\obj\Debug\IdCollection.Tests.pdb
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection.Tests\bin\Debug\nunit.framework.xml

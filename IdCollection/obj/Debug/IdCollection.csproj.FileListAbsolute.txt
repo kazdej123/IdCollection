@@ -1,0 +1,6 @@
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection\bin\Debug\IdCollection.dll
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection\bin\Debug\IdCollection.pdb
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection\obj\Debug\IdCollection.csprojAssemblyReference.cache
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection\obj\Debug\IdCollection.csproj.CoreCompileInputs.cache
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection\obj\Debug\IdCollection.dll
+C:\Users\Kysol\Documents\C#\IdCollection\IdCollection\obj\Debug\IdCollection.pdb
